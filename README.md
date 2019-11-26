@@ -1,4 +1,5 @@
 simple_sintement.ipynb is dedicated to train dataset creation and model training
+
 folder data contains raw train dataset in .json
 
 ---------------------------------------------------------------------------------------
