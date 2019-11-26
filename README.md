@@ -8,12 +8,15 @@ folder demo contains PyCharm project, in brief, it's interactive demonstration o
 demo launching manual:
 
 install necessary libs:
+
 $ pip install flask
 
 run demo in console:
+
 $ python run.py
 
 open webpage in browser:
+
 http://127.0.0.1:5000/   (or one, which program proposes in console output)
 
 
