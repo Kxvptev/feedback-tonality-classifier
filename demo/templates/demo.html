@@ -1,0 +1,13 @@
+<!doctype html>
+<title>Демонстрация работы классификатора тональности отзывов</title>
+<form action="{{ url_for('index_page') }}" method=post>
+    <dl>
+        <h1>Демонстрация работы классификатора тональности отзывов</h1>
+        <dt>Введите/вставьте ваш пример отзыва (классификатор обучен на русскоязычных отзывах): <br>
+        <dd><textarea name=text rows=5 cols=40>{{ text }}</textarea>
+        <dd><input type=submit value="Submit">
+    </dl>
+</form>
+
+<br>Предсказание классификатора:<br>
+{{ prediction_message }}
