@@ -9,7 +9,7 @@ Folder data contains raw train dataset in .json
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 
-Folder demo contains PyCharm project, in brief, it's interactive demonstration of classifier, where user can put his example of feedback and see, how classifier reacts to it. it's created on Flask
+Folder demo contains PyCharm project, in brief, it's interactive demonstration of classifier, where user can put his example of feedback and see, how classifier reacts to it. it was created on Flask
 
 
 Demo launching manual:
